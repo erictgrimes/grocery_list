@@ -1,0 +1,41 @@
+html {
+  background-color: #eef5db;
+}
+
+h1 {
+  background-color: #d6d1b1;
+  color: #26a540;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+h2 {
+  background-color: #60ac5c;
+  color: #d6f1d4;
+}
+
+h3 {
+  text-align: center;
+}
+
+.list {
+  background-color: #c7efcf;
+  display: inline-block;
+  border: 2px solid black;
+  padding: 20px;
+  margin: 20px;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+  padding-left: 20px;
+}
+
+.pantry {
+  display: inline-block;
+}
+
+.fridge {
+  display: inline-block;
+}
